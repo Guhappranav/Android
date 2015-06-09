@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-532921134cbb4ab986f04588dcd032c75af2c169.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-c46300569c7d8cb3ab40c89abd1c29d10c17777d.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-91a902a16bacf1130dafdb25b2146150e6fa7f73.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Pranav/Desktop/Android/Learning/OMGAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-3d5340d5dfe2952aa1cd8701b0ad90014b1e98e5.jar" />
+    </item>
+
+</items>
