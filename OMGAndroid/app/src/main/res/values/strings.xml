@@ -2,5 +2,6 @@
     <string name="app_name">OMG Android</string>
 
     <string name="hello_world">GK is learning Android !</string>
+    <string name="alignment_test">Learning  alignment !</string>
     <string name="action_settings">Settings</string>
 </resources>

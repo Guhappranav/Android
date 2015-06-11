@@ -3,6 +3,9 @@
     android:layout_height="match_parent"  tools:context=".MainActivity">
 
     <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content" android:id="@+id/hello_textview"/>
+
+    <TextView android:text="@string/alignment_test" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_alignRight="@+id/hello_textview" android:layout_alignParentBottom="true" android:backgroundTint="#00ff00"/>
 
 </RelativeLayout>
